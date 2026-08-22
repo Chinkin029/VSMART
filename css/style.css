@@ -121,7 +121,7 @@ Hero
 .hero{
 position:relative;
 background:url("../images/logo.jpeg") center center/cover;
- background:#0B2D66;
+
 height:550px;
 display:flex;
 align-items:center;
@@ -140,22 +140,22 @@ background:rgba(5,35,66,.75);
 .hero .container{
 position:relative;
 z-index:2;
- text-align:center;
+ text-align:left;
 }
 
 .hero h5{
 color:#FFD43B;
 letter-spacing:3px;
-font-weight:700;
+font-weight:500;
 margin-bottom:20px;
 }
 
 .hero h1{
-font-size:50px;
+font-size:40px;
 font-weight:540;
 line-height:1.15;
 margin-bottom:25px;
-text-align:center;
+
 }
 
 .hero p{
@@ -604,7 +604,7 @@ NEWSLETTER CTA
 
 .btn-warning{
 
-    background:#FFD43B;
+    background:#003366;
     border:none;
     padding:15px 35px;
     border-radius:50px;
@@ -773,7 +773,7 @@ RESPONSIVE DESIGN
 
 .hero h1{
 
-    font-size:45px;
+    font-size:40px;
 
 }
 
